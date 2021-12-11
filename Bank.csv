@@ -1,0 +1,12 @@
+Branch_id,Base,Data_report,Decision_rendering_algorithm,Budget_for_MFI,Manager_name
+BR0001,Madhya Pradesh,Annual Report 2021,LoanGrant_2020,282000,Aabharan
+BR0002,Uttar Pradesh,Annual Report 2021,LoanGrant_2020,282000,Bramhaghosh
+BR0003,Bihar,Annual Report 2021,LoanGrant_2020,188000,Kamalraj
+BR0004,West Bengal,Annual Report 2021,LoanGrant_2020,188000,Kashiprasad
+BR0005,Assam,Annual Report 2021,LoanGrant_2019,47000,Dayamithan
+BR0006,Delhi,Annual Report 2021,LoanGrant_2019,144000,Jarmishan
+BR0007,Haryana,Annual Report 2021,LoanGrant_2019,141000,Gajananan
+BR0008,Andhra Pradesh,Annual Report 2021,LoanGrant_2019,188000,Leelakar
+BR0009,Tamil Nadu,Annual Report 2021,LoanGrant_2020,188000,Dharmaraj
+BR0010,Maharashtra,Annual Report 2021,LoanGrant_2020,176000,Lekh
+BR0011,Gujarat,Annual Report 2021,LoanGrant_2020,176000,Gajananan

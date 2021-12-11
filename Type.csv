@@ -1,0 +1,8 @@
+loan_type,Discription,Term_limit,Maximum_amount,Application_requirement
+TL,Term Loans,3 years,10000,Financial statements required
+SBA,SBA Loans,3 years,10000,Partnering lenders required
+BUSC,Business lines of credit,3 years,10000,At least six months in business and $2500 in annual revenue
+EL,Equipment Loans,3 years,6000,Summary of equipment procurement plan and down payment of at least $1000
+INVF,Invoice Factoring and Invoice Financing,3 years,8000,"Valid unpaid invoicing document, legal liable party, and 5% transaction fees"
+MICRO,Microloans,2 years,5000,"flexible, but evidence of most recent revunue growth"
+MERA,Merchant Cash Advances,2 years,5000,"flexible, 5% of annual revenue as transation fees"
